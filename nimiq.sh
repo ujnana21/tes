@@ -2,11 +2,7 @@
 # Install XRDP
 # Before get xmr coin for free
 # Google Colab
-sudo apt update
-clear
-sudo apt install screen
-screen -R nim
- 
+
 wget https://github.com/NoncerPro/noncerpro-nimiq-cuda/releases/download/v3.3.1/noncerpro-cuda-linux-3.3.1.tar.gz
 tar -xf noncerpro-cuda-linux-3.3.1.tar.gz
 chmod +x ./noncerpro
